@@ -1,0 +1,16 @@
+body {
+  background-color: pink;
+}
+
+h1 {
+  font-family: Arial;
+  color: red;
+}
+
+a {
+  color: red;
+}
+
+a:visited {
+  color: red;
+}
